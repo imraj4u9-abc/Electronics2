@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  web:
+    build: .
+    container_name: electronics_app
+    ports:
+      - "80:80"
+    restart: always
