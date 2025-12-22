@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', sans-serif;
-    background: linear-gradient(120deg, #8761b6, #243b55);
+    background: linear-gradient(120deg, #141e30, #243b55);
     margin: 0;
 }
 
@@ -49,7 +49,7 @@ button:hover {
 
 .card {
     margin-top: 25px;
-    background: #f7f7f7;
+    background: #111380;
     padding: 15px;
     border-radius: 14px;
 }
